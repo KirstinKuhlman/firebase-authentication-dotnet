@@ -67,3 +67,4 @@ namespace Firebase.Auth.Tests
         }
     }
 }
+ 
